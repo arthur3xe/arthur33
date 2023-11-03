@@ -1,7 +1,52 @@
-tml, body {
-  margin: 0;
-  padding: 0;
+body {
+
 }
-canvas {
-  display: block;
+
+#banner {
+    width:100%;
+}
+
+.principal{
+     background: #CCCCCC;
+     padding: 30px;
+}
+
+.título-principal {
+      padding-left: 20px;
+}
+
+.título-centralizado {
+    text-aling: center
+}
+
+p {
+   text-aling: center;
+}
+
+#missão {
+     font-size: 20px
+}
+
+em strong {
+     color: #FF0000;
+}
+
+.itens {
+     font-style: italic
+}
+
+.beneficios {
+      background: #FFFFFF;
+      padding: 20px;
+}
+
+ul {
+  display: inline-block;
+  vertical-aling: top;
+  width: 20%;
+  margin-rigth: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
